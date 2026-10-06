@@ -1,30 +1,30 @@
 {
   "bikes": [
     {
-      "title": "Usato Lee Cougan Custom SRAM X01 Eagle – € 2.400",
+      "title": "Usato Leecougan CrossFire Air SRAM GX Eagle AXS – € 3.600",
       "brand": "Usato",
-      "model": "Lee Cougan Custom SRAM X01 Eagle",
-      "price": "2400",
-      "priceOriginal": "3500",
-      "year": "2023",
+      "model": "Leecougan CrossFire Air SRAM GX Eagle AXS",
+      "price": "3600",
+      "priceOriginal": "5300",
+      "year": "2025",
       "size": "M",
       "condition": "Nuova",
-      "suspensionType": "hardtail",
+      "suspensionType": "Doppia sospensione",
       "wheelSize": "",
-      "color": "Nero",
-      "gearType": "Meccanico",
+      "color": "Verde",
+      "gearType": "Elettronico",
       "brakeType": "Disco",
       "frameMaterial": "Carbonio",
-      "description": "Leecougan Crossfire Nuova, da emettere scontrino e attivare la garanzia,\n3 anni di garanzia. Mai utilizzata.",
-      "url": "https://buycycle.com/it-it/product/lee-cougan-custom-66350",
-      "id": "lee-cougan-custom-66350",
+      "description": "Leecougan CrossFire air taglia M\nultimo modello rimasto\nbici nuova\nda attivare garanzia\ntutto sram Gx t type\nfreni Shimano Slx\ntrittico Fsa FKX\nvenduta con scontrino di garanzia\nda attivare",
+      "url": "https://buycycle.com/it-it/product/leecougan-custom-43699",
+      "id": "leecougan-custom-43699",
       "imageUrls": [
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/lee-cougan-custom-66350-0.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/lee-cougan-custom-66350-1.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/lee-cougan-custom-66350-2.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/lee-cougan-custom-66350-3.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/lee-cougan-custom-66350-4.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/lee-cougan-custom-66350-5.webp"
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-0.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-1.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-2.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-4.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-5.webp"
       ]
     },
     {
@@ -201,5 +201,5 @@
       ]
     }
   ],
-  "updated": "2026-10-06T13:24:28.837Z"
+  "updated": "2026-10-06T22:44:54.285Z"
 }
