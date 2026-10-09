@@ -1,21 +1,21 @@
 {
   "bikes": [
     {
-      "title": "Usato Leecougan CrossFire Air SRAM GX Eagle AXS – € 3.600",
+      "title": "Usato Leecougan Custom SRAM GX Eagle AXS – € 3.600",
       "brand": "Usato",
-      "model": "Leecougan CrossFire Air SRAM GX Eagle AXS",
+      "model": "Leecougan Custom SRAM GX Eagle AXS",
       "price": "3600",
       "priceOriginal": "5300",
       "year": "2025",
       "size": "M",
       "condition": "Nuova",
       "suspensionType": "Doppia sospensione",
-      "wheelSize": "",
+      "wheelSize": "29",
       "color": "Verde",
       "gearType": "Elettronico",
       "brakeType": "Disco",
       "frameMaterial": "Carbonio",
-      "description": "Leecougan CrossFire air taglia M\nultimo modello rimasto\nbici nuova\nda attivare garanzia\ntutto sram Gx t type\nfreni Shimano Slx\ntrittico Fsa FKX\nvenduta con scontrino di garanzia\nda attivare",
+      "description": "Disponibile Leecougan\nCrossFire Air\ntaglia M\nbici NUOVA\nCambio sram Gx t-type\nFreni Shimano Slx\nGuarnitura, manubrio e reggisella Fsa FKX\nForca Rockshox Sid SL\nCerchi DtSwiss 1900\nPneumatici Continental\nGaranzia da attivare",
       "url": "https://buycycle.com/it-it/product/leecougan-custom-43699",
       "id": "leecougan-custom-43699",
       "imageUrls": [
@@ -24,7 +24,8 @@
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-2.webp",
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-3.webp",
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-4.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-5.webp"
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-5.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/leecougan-custom-43699-6.webp"
       ]
     },
     {
@@ -172,5 +173,5 @@
       ]
     }
   ],
-  "updated": "2026-10-08T13:36:43.261Z"
+  "updated": "2026-10-09T13:22:56.772Z"
 }
