@@ -1,10 +1,10 @@
 {
   "bikes": [
     {
-      "title": "Usato Focus O1E 8.7 2020 – € 1.037",
+      "title": "Usato Focus O1E 8.7 2020 – € 1.200",
       "brand": "Usato",
       "model": "O1E 8.7 2020",
-      "price": "1037",
+      "price": "1200",
       "priceOriginal": "3500",
       "year": "2020",
       "size": "M",
@@ -28,10 +28,10 @@
       ]
     },
     {
-      "title": "Usato Leecougan Custom SRAM GX Eagle AXS – € 3.600",
+      "title": "Usato Leecougan CrossFire Air SRAM GX Eagle AXS – € 3.580",
       "brand": "Usato",
-      "model": "Leecougan Custom SRAM GX Eagle AXS",
-      "price": "3600",
+      "model": "Leecougan CrossFire Air SRAM GX Eagle AXS",
+      "price": "3580",
       "priceOriginal": "5300",
       "year": "2025",
       "size": "M",
@@ -193,11 +193,12 @@
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/jam2-sl-99-2023-66422-1.webp",
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/jam2-sl-99-2023-66422-2.webp",
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/jam2-sl-99-2023-66422-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/jam2-sl-99-2023-66422-4.webp",
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/jam2-sl-99-2023-66422-5.webp",
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/jam2-sl-99-2023-66422-6.webp",
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/jam2-sl-99-2023-66422-7.webp"
       ]
     }
   ],
-  "updated": "2026-10-13T14:18:08.740Z"
+  "updated": "2026-10-13T22:56:58.444Z"
 }
