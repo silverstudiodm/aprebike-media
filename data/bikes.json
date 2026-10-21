@@ -1,33 +1,6 @@
 {
   "bikes": [
     {
-      "title": "Usato Focus O1E 8.7 2020 – € 1.200",
-      "brand": "Usato",
-      "model": "O1E 8.7 2020",
-      "price": "1200",
-      "priceOriginal": "3500",
-      "year": "2020",
-      "size": "M",
-      "condition": "Buona",
-      "suspensionType": "Doppia sospensione",
-      "wheelSize": "",
-      "color": "Nero",
-      "gearType": "Meccanico",
-      "brakeType": "Disco",
-      "frameMaterial": "Carbonio",
-      "description": "disponibile\nusatino\nfocus 01E\ntelaio in Carbonio\ntaglia M\nforcella con blocco alla forcella\ncerchi microtech in alluminio\nammortizzatore in carbonio\ncambio 12v Deore\ncassetta 10/51\nmanubrio e reggisella in alluminio",
-      "url": "https://buycycle.com/it-it/product/o1e-87-2020-40596",
-      "id": "o1e-87-2020-40596",
-      "imageUrls": [
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/o1e-87-2020-40596-0.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/o1e-87-2020-40596-1.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/o1e-87-2020-40596-2.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/o1e-87-2020-40596-3.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/o1e-87-2020-40596-4.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/o1e-87-2020-40596-5.webp"
-      ]
-    },
-    {
       "title": "Usato Leecougan CrossFire Air SRAM GX Eagle AXS – € 3.580",
       "brand": "Usato",
       "model": "Leecougan CrossFire Air SRAM GX Eagle AXS",
@@ -171,10 +144,10 @@
       ]
     },
     {
-      "title": "Usato Focus JAM² SL 9.9 2023 – € 3.800",
+      "title": "Usato Focus JAM² SL 9.9 2023 – € 3.600",
       "brand": "Usato",
       "model": "JAM² SL 9.9 2023",
-      "price": "3800",
+      "price": "3600",
       "priceOriginal": "8999",
       "year": "2023",
       "size": "M",
@@ -200,5 +173,5 @@
       ]
     }
   ],
-  "updated": "2026-10-21T11:55:36.736Z"
+  "updated": "2026-10-21T21:51:41.882Z"
 }
