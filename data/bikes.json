@@ -1,6 +1,33 @@
 {
   "bikes": [
     {
+      "title": "Usato Lee Cougan Crossfire 428 Team Eagle 2022 – € 2.700",
+      "brand": "Usato",
+      "model": "Crossfire 428 Team Eagle 2022",
+      "price": "2700",
+      "priceOriginal": "6900",
+      "year": "2022",
+      "size": "54 cm",
+      "condition": "Molto bene",
+      "suspensionType": "Doppia sospensione",
+      "wheelSize": "",
+      "color": "Verde",
+      "gearType": "Elettronico",
+      "brakeType": "Disco",
+      "frameMaterial": "Carbonio",
+      "description": "",
+      "url": "https://buycycle.com/it-it/product/crossfire-428-team-eagle-20226ada37b41b305-54423",
+      "id": "crossfire-428-team-eagle-20226ada37b41b305-54423",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-0.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-1.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-2.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-4.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-5.webp"
+      ]
+    },
+    {
       "title": "Usato Cannondale Scalpel HT Carbon 2 2024 – € 3.100",
       "brand": "Usato",
       "model": "Scalpel HT Carbon 2 2024",
@@ -202,5 +229,5 @@
       ]
     }
   ],
-  "updated": "2026-10-22T12:00:07.428Z"
+  "updated": "2026-10-22T21:48:01.439Z"
 }
