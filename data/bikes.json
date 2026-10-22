@@ -1,6 +1,35 @@
 {
   "bikes": [
     {
+      "title": "Usato Cannondale Scalpel HT Carbon 2 2024 – € 3.100",
+      "brand": "Usato",
+      "model": "Scalpel HT Carbon 2 2024",
+      "price": "3100",
+      "priceOriginal": "5280",
+      "year": "2024",
+      "size": "L",
+      "condition": "Molto bene",
+      "suspensionType": "hardtail",
+      "wheelSize": "29",
+      "color": "Nero",
+      "gearType": "Meccanico",
+      "brakeType": "Disco",
+      "frameMaterial": "Carbonio",
+      "description": "Basso chilometraggio\nCannondale Scalpel disponibile, taglia L,\nBellissima,\ncon 664 km originali registrati dal sensore installato sulla ruota anteriore,\nnessun lavoro da eseguire,\nmonta cerchi in carbonio\ne il cambio posteriore XT è stato sostituito con un Xtr.\nInstallato reggisella telescopico Switch da 100mm.\nDisponibile per foto e video",
+      "url": "https://buycycle.com/it-it/product/scalpel-ht-carbon-2-2024-79762",
+      "id": "scalpel-ht-carbon-2-2024-79762",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/scalpel-ht-carbon-2-2024-79762-0.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/scalpel-ht-carbon-2-2024-79762-1.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/scalpel-ht-carbon-2-2024-79762-2.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/scalpel-ht-carbon-2-2024-79762-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/scalpel-ht-carbon-2-2024-79762-4.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/scalpel-ht-carbon-2-2024-79762-5.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/scalpel-ht-carbon-2-2024-79762-6.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/scalpel-ht-carbon-2-2024-79762-7.webp"
+      ]
+    },
+    {
       "title": "Usato Leecougan CrossFire Air SRAM GX Eagle AXS – € 3.580",
       "brand": "Usato",
       "model": "Leecougan CrossFire Air SRAM GX Eagle AXS",
@@ -173,5 +202,5 @@
       ]
     }
   ],
-  "updated": "2026-10-21T21:51:41.882Z"
+  "updated": "2026-10-22T12:00:07.428Z"
 }
