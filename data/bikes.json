@@ -1,18 +1,18 @@
 {
   "bikes": [
     {
-      "title": "Usato Lee Cougan Crossfire 428 Team Eagle 2022 – € 2.700",
+      "title": "Usato Lee Cougan Crossfire 428 Team Eagle xx1 gold 2022 – € 2.400",
       "brand": "Usato",
-      "model": "Crossfire 428 Team Eagle 2022",
-      "price": "2700",
+      "model": "Crossfire 428 Team Eagle xx1 gold 2022",
+      "price": "2400",
       "priceOriginal": "6900",
       "year": "2022",
       "size": "54 cm",
       "condition": "Molto bene",
       "suspensionType": "Doppia sospensione",
-      "wheelSize": "",
+      "wheelSize": "29",
       "color": "Verde",
-      "gearType": "Elettronico",
+      "gearType": "Meccanico",
       "brakeType": "Disco",
       "frameMaterial": "Carbonio",
       "description": "",
@@ -24,7 +24,9 @@
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-2.webp",
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-3.webp",
         "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-4.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-5.webp"
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-5.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-6.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-428-team-eagle-20226ada37b41b305-54423-7.webp"
       ]
     },
     {
@@ -229,5 +231,5 @@
       ]
     }
   ],
-  "updated": "2026-10-24T11:07:47.367Z"
+  "updated": "2026-10-24T21:01:18.439Z"
 }
