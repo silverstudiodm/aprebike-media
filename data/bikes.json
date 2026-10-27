@@ -1,6 +1,35 @@
 {
   "bikes": [
     {
+      "title": "Usato Lee Cougan Crossfire Trail 2026 Shimano XT Di2 – € 4.200",
+      "brand": "Usato",
+      "model": "Crossfire Trail 2026 Shimano XT Di2",
+      "price": "4200",
+      "priceOriginal": "5900",
+      "year": "2026",
+      "size": "56 cm",
+      "condition": "Molto bene",
+      "suspensionType": "Doppia sospensione",
+      "wheelSize": "",
+      "color": "Bianco",
+      "gearType": "Elettronico",
+      "brakeType": "Disco",
+      "frameMaterial": "Carbonio",
+      "description": "La bici è stata usata pochissimo quindi si presenta molto bene",
+      "url": "https://buycycle.com/it-it/product/crossfire-trail-2026-shimano-xt-di26ae0cfda66089-88279",
+      "id": "crossfire-trail-2026-shimano-xt-di26ae0cfda66089-88279",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-trail-2026-shimano-xt-di26ae0cfda66089-88279-0.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-trail-2026-shimano-xt-di26ae0cfda66089-88279-1.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-trail-2026-shimano-xt-di26ae0cfda66089-88279-2.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-trail-2026-shimano-xt-di26ae0cfda66089-88279-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-trail-2026-shimano-xt-di26ae0cfda66089-88279-4.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-trail-2026-shimano-xt-di26ae0cfda66089-88279-5.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-trail-2026-shimano-xt-di26ae0cfda66089-88279-6.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/crossfire-trail-2026-shimano-xt-di26ae0cfda66089-88279-7.webp"
+      ]
+    },
+    {
       "title": "Usato Lee Cougan Crossfire 428 Team Eagle xx1 gold 2022 – € 2.400",
       "brand": "Usato",
       "model": "Crossfire 428 Team Eagle xx1 gold 2022",
@@ -44,7 +73,7 @@
       "gearType": "Meccanico",
       "brakeType": "Disco",
       "frameMaterial": "Carbonio",
-      "description": "Basso chilometraggio\nCannondale Scalpel disponibile, taglia L,\nBellissima,\ncon 664 km originali registrati dal sensore installato sulla ruota anteriore,\nnessun lavoro da eseguire,\nmonta cerchi in carbonio\ne il cambio posteriore XT è stato sostituito con un Xtr.\nInstallato reggisella telescopico Switch da 100mm.\nDisponibile per foto e video",
+      "description": "Basso chilometraggio\nDisponibile Cannondale Scalpel, taglia L.\nBellissima,\ncon 664 km originali segnati da sensore installato su ruota anteriore,\nnessun lavoro da eseguire,\ninstallati cerchi in carbonio\ne sostituito cambio posteriore XT con XTR.\nInstallato reggisella telescopico Switch da 100 mm.\nDisponibile per foto e video.",
       "url": "https://buycycle.com/it-it/product/scalpel-ht-carbon-2-2024-79762",
       "id": "scalpel-ht-carbon-2-2024-79762",
       "imageUrls": [
@@ -231,5 +260,5 @@
       ]
     }
   ],
-  "updated": "2026-10-27T12:19:05.650Z"
+  "updated": "2026-10-27T22:27:29.424Z"
 }
