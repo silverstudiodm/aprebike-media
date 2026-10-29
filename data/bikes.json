@@ -1,6 +1,35 @@
 {
   "bikes": [
     {
+      "title": "Usato Garmin Rally RK200 – € 480",
+      "brand": "Usato",
+      "model": "Rally RK200",
+      "price": "480",
+      "priceOriginal": "",
+      "year": "2023",
+      "size": "",
+      "condition": "Buona",
+      "suspensionType": "",
+      "wheelSize": "",
+      "color": "",
+      "gearType": "",
+      "brakeType": "",
+      "frameMaterial": "",
+      "description": "Vendo Garmin Rally RK200\nPerfettamente funzionanti\nUtilizzati per 800 km\nCompleti di scatola\nIstruzioni\nTacchette originali\nUlteriori",
+      "url": "https://buycycle.com/it-it/product/pedals-garmin-rally-rk200-9",
+      "id": "pedals-garmin-rally-rk200-9",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/pedals-garmin-rally-rk200-9-0.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/pedals-garmin-rally-rk200-9-1.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/pedals-garmin-rally-rk200-9-2.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/pedals-garmin-rally-rk200-9-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/pedals-garmin-rally-rk200-9-4.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/pedals-garmin-rally-rk200-9-5.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/pedals-garmin-rally-rk200-9-6.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/pedals-garmin-rally-rk200-9-7.webp"
+      ]
+    },
+    {
       "title": "Usato Lee Cougan Crossfire Trail 2026 Shimano XT Di2 – € 4.200",
       "brand": "Usato",
       "model": "Crossfire Trail 2026 Shimano XT Di2",
@@ -260,5 +289,5 @@
       ]
     }
   ],
-  "updated": "2026-10-29T13:08:44.963Z"
+  "updated": "2026-10-29T22:55:14.480Z"
 }
