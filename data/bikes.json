@@ -1,6 +1,35 @@
 {
   "bikes": [
     {
+      "title": "Usato Trek Émonda SL 6 2020 – € 1.100",
+      "brand": "Usato",
+      "model": "Émonda SL 6 2020",
+      "price": "1100",
+      "priceOriginal": "2491",
+      "year": "2020",
+      "size": "54 cm",
+      "condition": "Molto bene",
+      "suspensionType": "",
+      "wheelSize": "",
+      "color": "Nero",
+      "gearType": "Meccanico",
+      "brakeType": "Cerchio",
+      "frameMaterial": "Carbonio",
+      "description": "Garage custodito\nLa bici ha qualche anno ma è pari al nuovo, è stata usata pochissimo come si può vedere dalle foto, all' inizio dell'utilizzo si è spaventato su strada e rimessata in garage e non più utilizzata, ottima occasione per qualcuno che vuole spendere poco ed avere la bici molto leggera.",
+      "url": "https://buycycle.com/it-it/product/emonda-sl-6-2020-53416",
+      "id": "emonda-sl-6-2020-53416",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/emonda-sl-6-2020-53416-0.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/emonda-sl-6-2020-53416-1.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/emonda-sl-6-2020-53416-2.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/emonda-sl-6-2020-53416-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/emonda-sl-6-2020-53416-4.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/emonda-sl-6-2020-53416-5.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/emonda-sl-6-2020-53416-6.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/emonda-sl-6-2020-53416-7.webp"
+      ]
+    },
+    {
       "title": "Usato Garmin Rally RK200 – € 480",
       "brand": "Usato",
       "model": "Rally RK200",
@@ -289,5 +318,5 @@
       ]
     }
   ],
-  "updated": "2026-10-31T12:38:54.544Z"
+  "updated": "2026-10-31T21:47:20.493Z"
 }
