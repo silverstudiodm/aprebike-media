@@ -1,6 +1,33 @@
 {
   "bikes": [
     {
+      "title": "Usato Basso Palta III Rival XPLR 13 S 2026 – € 5.500",
+      "brand": "Usato",
+      "model": "Palta III Rival XPLR 13 S 2026",
+      "price": "5500",
+      "priceOriginal": "5799",
+      "year": "2026",
+      "size": "M",
+      "condition": "Nuova",
+      "suspensionType": "",
+      "wheelSize": "",
+      "color": "Viola",
+      "gearType": "Elettronico",
+      "brakeType": "Disco",
+      "frameMaterial": "Carbonio",
+      "description": "basso Palta III,\ntaglia m\nbici NUOVA da scontrinare,\nspostata da negozio a set fotografico, mai toccata strada,\ngaranzia 5 anni\nmanubrio e reggisella in carbonio",
+      "url": "https://buycycle.com/it-it/product/palta-iii-rival-xplr-13-s-2026-30003",
+      "id": "palta-iii-rival-xplr-13-s-2026-30003",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/palta-iii-rival-xplr-13-s-2026-30003-0.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/palta-iii-rival-xplr-13-s-2026-30003-1.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/palta-iii-rival-xplr-13-s-2026-30003-2.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/palta-iii-rival-xplr-13-s-2026-30003-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/palta-iii-rival-xplr-13-s-2026-30003-4.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/palta-iii-rival-xplr-13-s-2026-30003-5.webp"
+      ]
+    },
+    {
       "title": "Usato Trek Émonda SL 6 2020 – € 1.100",
       "brand": "Usato",
       "model": "Émonda SL 6 2020",
@@ -146,10 +173,10 @@
       ]
     },
     {
-      "title": "Usato Leecougan CrossFire Air SRAM GX Eagle AXS – € 3.580",
+      "title": "Usato Leecougan CrossFire Air SRAM GX Eagle AXS – € 3.450",
       "brand": "Usato",
       "model": "Leecougan CrossFire Air SRAM GX Eagle AXS",
-      "price": "3580",
+      "price": "3450",
       "priceOriginal": "5300",
       "year": "2025",
       "size": "M",
@@ -261,34 +288,6 @@
       ]
     },
     {
-      "title": "Usato Santa Cruz Megatower XTR Reserve / Carbon CC / 29 2020 Frameset – € 1.900",
-      "brand": "Usato",
-      "model": "Megatower XTR Reserve / Carbon CC / 29 2020 Frameset",
-      "price": "1900",
-      "priceOriginal": "",
-      "year": "2020",
-      "size": "L",
-      "condition": "Buona",
-      "suspensionType": "Doppia sospensione",
-      "wheelSize": "29",
-      "color": "Viola",
-      "gearType": "Meccanico",
-      "brakeType": "Disco",
-      "frameMaterial": "Carbonio",
-      "description": "Edizione limitata\nColorazione rosa (cipria), pochissimi modelli disponibili, due piccoli graffi sul tubo obliquo, ammortizzatore Fox Float Factory nuovo (smontato da bici nuova).\nCompresi nel kit: movimento centrale DUB, serie sterzo Chris King, guidacatena MRP.",
-      "url": "https://buycycle.com/it-it/product/megatower-xtr-reserve-carbon-cc-29-2020-frameset-10904",
-      "id": "megatower-xtr-reserve-carbon-cc-29-2020-frameset-10904",
-      "imageUrls": [
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/megatower-xtr-reserve-carbon-cc-29-2020-frameset-10904-0.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/megatower-xtr-reserve-carbon-cc-29-2020-frameset-10904-1.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/megatower-xtr-reserve-carbon-cc-29-2020-frameset-10904-2.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/megatower-xtr-reserve-carbon-cc-29-2020-frameset-10904-3.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/megatower-xtr-reserve-carbon-cc-29-2020-frameset-10904-4.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/megatower-xtr-reserve-carbon-cc-29-2020-frameset-10904-5.webp",
-        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/megatower-xtr-reserve-carbon-cc-29-2020-frameset-10904-6.webp"
-      ]
-    },
-    {
       "title": "Usato Focus JAM² SL 9.9 2023 – € 3.600",
       "brand": "Usato",
       "model": "JAM² SL 9.9 2023",
@@ -318,5 +317,5 @@
       ]
     }
   ],
-  "updated": "2026-11-07T22:03:13.963Z"
+  "updated": "2026-11-08T13:32:39.588Z"
 }
