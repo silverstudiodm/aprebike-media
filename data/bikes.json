@@ -1,6 +1,64 @@
 {
   "bikes": [
     {
+      "title": "Usato Specialized S-WORKS TARMAC SL6 DISC ULTEGRA Di2 2020 – € 2.900",
+      "brand": "Usato",
+      "model": "S-WORKS TARMAC SL6 DISC ULTEGRA Di2 2020",
+      "price": "2900",
+      "priceOriginal": "12500",
+      "year": "2020",
+      "size": "L",
+      "condition": "Molto bene",
+      "suspensionType": "",
+      "wheelSize": "",
+      "color": "Verde",
+      "gearType": "Elettronico",
+      "brakeType": "Disco",
+      "frameMaterial": "Carbonio",
+      "description": "Bici ben tenuta e sempre fatta manutezione maniacale, il colore è Goss Supernova Chameleon Sworks sfumature dal verde petrolio al viola a seconda della luce",
+      "url": "https://buycycle.com/it-it/product/s-works-tarmac-sl6-disc-ultegra-di2-20206afb16bf26b46-18038",
+      "id": "s-works-tarmac-sl6-disc-ultegra-di2-20206afb16bf26b46-18038",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/s-works-tarmac-sl6-disc-ultegra-di2-20206afb16bf26b46-18038-0.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/s-works-tarmac-sl6-disc-ultegra-di2-20206afb16bf26b46-18038-1.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/s-works-tarmac-sl6-disc-ultegra-di2-20206afb16bf26b46-18038-2.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/s-works-tarmac-sl6-disc-ultegra-di2-20206afb16bf26b46-18038-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/s-works-tarmac-sl6-disc-ultegra-di2-20206afb16bf26b46-18038-4.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/s-works-tarmac-sl6-disc-ultegra-di2-20206afb16bf26b46-18038-5.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/s-works-tarmac-sl6-disc-ultegra-di2-20206afb16bf26b46-18038-6.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/s-works-tarmac-sl6-disc-ultegra-di2-20206afb16bf26b46-18038-7.webp"
+      ]
+    },
+    {
+      "title": "Usato Trek Supercaliber SLR 9.9 XX Flight Attendant Gen 2 2026 – € 6.700",
+      "brand": "Usato",
+      "model": "Supercaliber SLR 9.9 XX Flight Attendant Gen 2 2026",
+      "price": "6700",
+      "priceOriginal": "13900",
+      "year": "2026",
+      "size": "M",
+      "condition": "Molto bene",
+      "suspensionType": "Doppia sospensione",
+      "wheelSize": "29",
+      "color": "Nero",
+      "gearType": "Elettronico",
+      "brakeType": "Disco",
+      "frameMaterial": "Carbonio",
+      "description": "",
+      "url": "https://buycycle.com/it-it/product/supercaliber-slr-99-xx-flight-attendant-gen-2-2026-80858",
+      "id": "supercaliber-slr-99-xx-flight-attendant-gen-2-2026-80858",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/supercaliber-slr-99-xx-flight-attendant-gen-2-2026-80858-0.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/supercaliber-slr-99-xx-flight-attendant-gen-2-2026-80858-1.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/supercaliber-slr-99-xx-flight-attendant-gen-2-2026-80858-2.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/supercaliber-slr-99-xx-flight-attendant-gen-2-2026-80858-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/supercaliber-slr-99-xx-flight-attendant-gen-2-2026-80858-4.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/supercaliber-slr-99-xx-flight-attendant-gen-2-2026-80858-5.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/supercaliber-slr-99-xx-flight-attendant-gen-2-2026-80858-6.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/supercaliber-slr-99-xx-flight-attendant-gen-2-2026-80858-7.webp"
+      ]
+    },
+    {
       "title": "Usato Basso Palta III Rival XPLR 13 S 2026 – € 5.500",
       "brand": "Usato",
       "model": "Palta III Rival XPLR 13 S 2026",
@@ -317,5 +375,5 @@
       ]
     }
   ],
-  "updated": "2026-11-15T23:02:52.406Z"
+  "updated": "2026-11-16T15:56:28.539Z"
 }
