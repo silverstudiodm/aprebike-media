@@ -1,6 +1,33 @@
 {
   "bikes": [
     {
+      "title": "Usato Rock Shox Rudy Ultimate XPLR – € 320",
+      "brand": "Usato",
+      "model": "Rudy Ultimate XPLR",
+      "price": "320",
+      "priceOriginal": "",
+      "year": "2025",
+      "size": "",
+      "condition": "Molto bene",
+      "suspensionType": "",
+      "wheelSize": "",
+      "color": "Nero",
+      "gearType": "",
+      "brakeType": "",
+      "frameMaterial": "",
+      "description": "Vendo forcella gravel modello rock shock Rudy Ultimate XPLR, piantone sterzo tagliato a 18cm, blocco forcella, revisionata il 16 novembre.\nPresenta delle imperfezioni sullo stelo sinistro\nSegnala questo prodotto come sospetto",
+      "url": "https://buycycle.com/it-it/product/suspension-fork-rock-shox-rudy-ultimate-xplr-1",
+      "id": "suspension-fork-rock-shox-rudy-ultimate-xplr-1",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/suspension-fork-rock-shox-rudy-ultimate-xplr-1-0.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/suspension-fork-rock-shox-rudy-ultimate-xplr-1-1.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/suspension-fork-rock-shox-rudy-ultimate-xplr-1-2.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/suspension-fork-rock-shox-rudy-ultimate-xplr-1-3.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/suspension-fork-rock-shox-rudy-ultimate-xplr-1-4.webp",
+        "https://raw.githubusercontent.com/silverstudiodm/aprebike-media/main/images/suspension-fork-rock-shox-rudy-ultimate-xplr-1-5.webp"
+      ]
+    },
+    {
       "title": "Usato Specialized S-WORKS TARMAC SL6 DISC ULTEGRA Di2 2020 – € 2.900",
       "brand": "Usato",
       "model": "S-WORKS TARMAC SL6 DISC ULTEGRA Di2 2020",
@@ -375,5 +402,5 @@
       ]
     }
   ],
-  "updated": "2026-11-17T16:10:11.856Z"
+  "updated": "2026-11-18T01:07:05.172Z"
 }
